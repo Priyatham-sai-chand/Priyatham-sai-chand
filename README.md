@@ -14,4 +14,4 @@ Currently working on:
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyatham-sai-chand&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyatham-sai-chand&hide=html,Jupyter%20notebook,Java)
