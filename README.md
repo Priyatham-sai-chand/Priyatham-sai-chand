@@ -5,10 +5,7 @@ I love collaboration and working together. Have started,shared,assisted and been
 
 I use a number of tools ranging from vim to adobe suite and like to use and build much more in the coming years.
 
-Currently working on:
-- Handwriting Recognition
-- Deep Learning on Genetics
-- Locaft Startup Project 
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyatham-sai-chand&show_icons=true&theme=default&hide=issues,stars)
 
